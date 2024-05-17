@@ -1,0 +1,42 @@
+#margin .container .row .col{
+
+height: 200px;
+width: 200px;
+
+
+
+
+
+
+}
+
+#margin .container .row  .c1{
+
+
+/* height:200px; */
+/* width: 200px; */
+background-color:purple ;
+
+
+}
+
+
+#margin .container .row  .c2{
+
+/* height: 200px; */
+/* width: 300px; */
+background-color:green ;
+margin-left: 200px;
+
+}
+#margin .container .row  .c3{
+
+
+background-color: black;
+
+}
+
+#margin .container .row  .c4{
+background-color: darkgoldenrod;
+margin-left: 200px;
+}

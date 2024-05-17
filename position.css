@@ -1,0 +1,23 @@
+section .container .row .col{
+    width: 300px;
+    padding: 10px;
+    border: 1px solid black
+    
+    
+
+
+
+
+
+}
+
+.card-img img{
+    height: 170px;
+    
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}

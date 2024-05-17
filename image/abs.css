@@ -1,0 +1,23 @@
+.col{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 5px;
+
+}
+.col .nestedcol{
+    height: 50px;
+    width: 50px;
+    border: 1px solid red;
+}
+.n1{
+    background-color: yellow;
+    position: absolute;
+    top: 70px;
+}
+.n2{
+    background-color: green;
+    position: relative;
+    left: 100px;
+    
+}
